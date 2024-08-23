@@ -73,7 +73,7 @@ The **Tuition Payment System** aims to innovate the traditional tuition collecti
    - Optimize smart contract performance to handle higher transaction volumes and reduce gas costs.
    - Explore Layer 2 solutions to improve scalability and transaction speed.
 ## **Contract Address**:
-   - **Network:** Educhain
+   - **Network:** Educhain_testnet
    - **contract address:** 0x8ab76b3f85727501f35a0735cafbb72d5a6fc264
 ![image](https://github.com/user-attachments/assets/4027019f-8c20-4e51-913f-eacf6bd8c118)
 
