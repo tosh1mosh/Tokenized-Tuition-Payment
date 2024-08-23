@@ -1,4 +1,5 @@
 # Tuition Payment System
+![image](https://github.com/user-attachments/assets/04c5e7a3-3f11-421d-9632-a8f890238bb1)
 
 ## Vision
 The **Tuition Payment System** aims to innovate the traditional tuition collection process through blockchain technology. By utilizing Ethereum smart contracts and the `TuitionToken`, this system facilitates secure, automated, and transparent tuition payments. It is designed to streamline the payment process, reduce administrative overhead, and enhance trust between educational institutions and students. The use of smart contracts ensures that payments are managed efficiently, with reduced risk of errors and fraud.
@@ -74,6 +75,8 @@ The **Tuition Payment System** aims to innovate the traditional tuition collecti
 ## **Contract Address**:
    - **Network:** Educhain
    - **contract address:** 0x8ab76b3f85727501f35a0735cafbb72d5a6fc264
+![image](https://github.com/user-attachments/assets/4027019f-8c20-4e51-913f-eacf6bd8c118)
+
 ## Contact
 For inquiries, support, or collaboration opportunities, please contact:
 
